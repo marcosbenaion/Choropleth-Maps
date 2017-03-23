@@ -1,0 +1,11 @@
+---- IBGE
+
+http://cidades.ibge.gov.br/painel/painel.php?lang=&codmun=150140&search=para|belem|infogr%E1ficos:-dados-gerais-do-munic%EDpio
+
+---- Bairros (guia do eleitor)
+
+http://www.guiadoeleitor.com.br/bairros/bairros.htm
+
+---- Prefeitura de Belém
+
+http://www.belem.pa.gov.br/app/c2ms/v/?id=18&conteudo=4758
