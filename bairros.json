@@ -6,10 +6,8 @@
             "type": "Feature",
             "properties":
             {
-                "Nome": "Coqueiro",
-                "Num_Escolas": 2,
-                "Num_Hospitais": 3,
-                "Populacao": 190.3
+                "NAME": "Coqueiro",
+                "COLI": 190.3
             },
             "geometry":
             {
@@ -29,10 +27,8 @@
             "type": "Feature",
             "properties":
             {
-                "Nome": "Umarizal",
-                "Num_Escolas": 2,
-                "Num_Hospitais": 3,
-                "Populacao": 108.3
+                "NAME": "Umarizal",
+                "COLI": 108.3
             },
             "geometry":
             {

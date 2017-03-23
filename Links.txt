@@ -9,3 +9,11 @@ http://www.guiadoeleitor.com.br/bairros/bairros.htm
 ---- Prefeitura de Belém
 
 http://www.belem.pa.gov.br/app/c2ms/v/?id=18&conteudo=4758
+
+---- GeoJSON criação de polígonos
+
+http://geojson.io
+
+---- LeafletJS
+
+http://leafletjs.com/examples/choropleth/
