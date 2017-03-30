@@ -19,3 +19,24 @@ http://geojson.io
 http://leafletjs.com/examples/choropleth/
 
 --- IDH
+
+http://maptimeboston.github.io/d3-maptime/#/70
+
+https://www.jasondavies.com/maps/transition/
+
+https://github.com/d3/d3-geo/blob/master/README.md#projections
+
+https://bl.ocks.org/mbostock/3711652
+
+https://bost.ocks.org/mike/map/
+
+http://stackoverflow.com/questions/13944704/d3-js-geojson-and-bounds
+
+http://stackoverflow.com/questions/14492284/center-a-map-in-d3-given-a-geojson-object
+
+https://bl.ocks.org/mbostock/4707858
+
+http://stackoverflow.com/questions/29267238/reverse-color-mapping-in-d3
+
+http://gis.stackexchange.com/questions/233349/geojson-maps-created-with-d3-appear-flipped-inverted
+
