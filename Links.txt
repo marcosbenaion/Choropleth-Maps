@@ -40,3 +40,14 @@ http://stackoverflow.com/questions/29267238/reverse-color-mapping-in-d3
 
 http://gis.stackexchange.com/questions/233349/geojson-maps-created-with-d3-appear-flipped-inverted
 
+http://alignedleft.com/tutorials/d3/
+
+https://ufpadoispontozero.wordpress.com/2013/07/10/belem-estudo-de-geografia-urbana-vol-i-e-ii/
+
+http://www.belem.pa.gov.br/app/ANUARIO_2011/2_01_Demografia.pdf
+
+http://geocartografiadigital.blogspot.com.br/2013/10/belem-pa-bairros-mais-populosos-em-1960.html
+
+http://geopara.blogspot.com.br/2012/07/populacao-de-belem-por-bairros.html
+
+https://sidra.ibge.gov.br/ajuda
