@@ -1,0 +1,5 @@
+*** 06 de Abril
+
+ - Implementar Drill Down no mapa (ex.: sequencia, Brasil -> Pará -> Belém )
+ - Configuração de cor nos bairros
+ - Filtro Categórico
