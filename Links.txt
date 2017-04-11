@@ -60,3 +60,5 @@ http://colorbrewer2.org/
 
 http://geocartografiadigital.blogspot.com.br/2014/01/mapeamento-dos-homicidios-nos-bairros.html
 
+http://jvectormap.com/examples/drill-down/
+
