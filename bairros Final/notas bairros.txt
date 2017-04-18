@@ -1,0 +1,4 @@
+Agua_Boa = Agua_Negra
+Montese = Terra_Firme
+Paracur = Paracuri
+Uma = Una
