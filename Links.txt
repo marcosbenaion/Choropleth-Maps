@@ -67,3 +67,7 @@ https://bl.ocks.org/mbostock/6320825
 https://bl.ocks.org/mbostock/5144735
 
 http://www.macwright.org/2013/02/18/literate-jenks.html
+
+http://www.sciencedirect.com/science/article/pii/S1568494612003377
+
+http://ieeexplore.ieee.org/abstract/document/5358673/?reload=true
