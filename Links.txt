@@ -74,3 +74,9 @@ http://ieeexplore.ieee.org/abstract/document/5358673/?reload=true
 
 https://www.ehdp.com/vitalnet/breaks-1.htm
 
+http://stackoverflow.com/questions/24193593/d3-how-to-change-dataset-based-on-drop-down-box-selection
+
+http://stackoverflow.com/questions/28874957/how-to-update-overwrite-map-and-legend-content-using-d3
+
+http://bl.ocks.org/niallmackenzie/8a763afd14e195154e63
+
