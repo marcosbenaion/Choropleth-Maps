@@ -3,3 +3,9 @@
  - Implementar Drill Down no mapa (ex.: sequencia, Brasil -> Pará -> Belém )
  - Configuração de cor nos bairros
  - Filtro Categórico
+
+*** 11 de Maio
+
+ - Adicionar opções de seleção de outros atributos para exibição
+ - Adicionar gráficos de exibição para seleção de bairros (brush)
+ - Implementar Drill Down no mapa
