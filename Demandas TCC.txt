@@ -9,3 +9,8 @@
  - Adicionar opções de seleção de outros atributos para exibição
  - Adicionar gráficos de exibição para seleção de bairros (brush)
  - Implementar Drill Down no mapa
+
+
+ - Scatterplot
+ - Pizza para Detalhes sobre demanda
+ - Textura
