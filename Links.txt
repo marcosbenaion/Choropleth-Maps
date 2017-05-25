@@ -81,3 +81,13 @@ http://stackoverflow.com/questions/28874957/how-to-update-overwrite-map-and-lege
 http://bl.ocks.org/niallmackenzie/8a763afd14e195154e63
 
 http://bl.ocks.org/d3noob/7030f35b72de721622b8 - Update Data D3
+
+-- All activities ¬¬'
+
+http://www.cartographicperspectives.org/index.php/journal/article/view/cp78-sack-et-al/1359
+
+http://duspviz.mit.edu/d3-workshop/transitions-animation/
+
+http://duspviz.mit.edu/d3-workshop/mapping-data-with-d3/
+
+----
