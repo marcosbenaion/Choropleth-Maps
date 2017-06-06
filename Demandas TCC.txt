@@ -12,5 +12,5 @@
 
 
  - Scatterplot
- - Pizza para Detalhes sobre demanda
- - Textura
+ - Grafico de Barras para Detalhes sobre demanda
+ - Mudar Texturas
