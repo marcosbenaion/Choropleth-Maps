@@ -95,3 +95,7 @@ http://duspviz.mit.edu/d3-workshop/mapping-data-with-d3/
 -- Bar Chart --
 
 http://www.d3noob.org/2014/02/making-bar-chart-in-d3js.html
+
+-- GeoJSON estados Brasileiros --
+
+https://github.com/tbrugz/geodata-br
