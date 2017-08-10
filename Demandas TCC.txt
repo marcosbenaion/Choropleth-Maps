@@ -14,3 +14,12 @@
  - Scatterplot
  - Grafico de Barras para Detalhes sobre demanda
  - Mudar Texturas
+
+*** 10 de Agosto
+
+ Definir:
+
+ - Titulo
+ - Objetivo Geral
+ - Objetivos específicos
+ - Motivacao

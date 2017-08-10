@@ -99,3 +99,9 @@ http://www.d3noob.org/2014/02/making-bar-chart-in-d3js.html
 -- GeoJSON estados Brasileiros --
 
 https://github.com/tbrugz/geodata-br
+
+-- Artigos --
+
+http://www.tandfonline.com/doi/abs/10.1111/j.1467-8306.1971.tb00779.x
+
+http://www.tandfonline.com/doi/abs/10.1080/00330124.2012.700499

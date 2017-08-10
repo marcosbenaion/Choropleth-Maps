@@ -1,0 +1,18 @@
+- Objetivo Geral:
+
+Representar informações estatísticas e geográficas em mapas Choropleth hierárquicos interativos 
+
+- Objetivos Específicos :
+
+* Compreender técnicas possíveis de serem aplicadas às características[dados] nos mapas. [coloração, texturas, bolhas]
+
+* Investigar técnicas de categorização de dados. [linear, quantização, jenks natural breaks]
+
+* Escolher interações adequadas para a exibição de informações pertinentes ao nível do mapa selecionado. [filtro, drill down, brush]
+
+- Título:
+
+* Representando dados estatísticos em mapas Choropleth utilizando D3.js
+
+
+--- Obs: Os textos entre colchetes "[ exemplo ... ]" sugerem os tópicos a serem abordados nos objetivos específicos
